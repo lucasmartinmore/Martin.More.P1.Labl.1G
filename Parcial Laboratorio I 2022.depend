@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652489589 source:c:\users\lucas\desktop\laboratorio i\parcial laboratorio i 2022\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
