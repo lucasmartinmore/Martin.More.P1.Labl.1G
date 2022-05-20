@@ -1,7 +1,73 @@
 # depslib dependency file v1.0
-1652489589 source:c:\users\lucas\desktop\laboratorio i\parcial laboratorio i 2022\main.c
+1653086358 source:c:\users\lucas\desktop\laboratorio i\parcial laboratorio i 2022\main.c
+	"Moto.h"
+	"Trabajo.h"
+	"Informe.h"
+
+1652910540 source:c:\users\lucas\desktop\laboratorio i\parcial laboratorio i 2022\fecha.c
+
+1652911148 source:c:\users\lucas\desktop\laboratorio i\parcial laboratorio i 2022\color.c
+	"Color.h"
+
+1652911862 c:\users\lucas\desktop\laboratorio i\parcial laboratorio i 2022\color.h
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	<ctype.h>
+
+1653086563 c:\users\lucas\desktop\laboratorio i\parcial laboratorio i 2022\moto.h
+	"Color.h"
+	"Tipo.h"
+	"Cliente.h"
+
+1652911929 c:\users\lucas\desktop\laboratorio i\parcial laboratorio i 2022\tipo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1653083807 c:\users\lucas\desktop\laboratorio i\parcial laboratorio i 2022\trabajo.h
+	"Moto.h"
+	"Servicio.h"
+	"Fecha.h"
+
+1652911916 c:\users\lucas\desktop\laboratorio i\parcial laboratorio i 2022\servicio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1652910878 c:\users\lucas\desktop\laboratorio i\parcial laboratorio i 2022\fecha.h
+
+1653083846 source:c:\users\lucas\desktop\laboratorio i\parcial laboratorio i 2022\trabajo.c
+	"Trabajo.h"
+
+1653083770 source:c:\users\lucas\desktop\laboratorio i\parcial laboratorio i 2022\moto.c
+	"Moto.h"
+
+1652911437 source:c:\users\lucas\desktop\laboratorio i\parcial laboratorio i 2022\servicio.c
+	"Servicio.h"
+
+1652911092 source:c:\users\lucas\desktop\laboratorio i\parcial laboratorio i 2022\tipo.c
+	"Tipo.h"
+
+1653083688 c:\users\lucas\desktop\laboratorio i\parcial laboratorio i 2022\cliente.h
+
+1653083746 source:c:\users\lucas\desktop\laboratorio i\parcial laboratorio i 2022\cliente.c
+	"Cliente.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1653086341 source:c:\users\lucas\desktop\laboratorio i\parcial laboratorio i 2022\informe.c
+	"Informe.h"
+
+1653086314 c:\users\lucas\desktop\laboratorio i\parcial laboratorio i 2022\informe.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Moto.h"
+	"Trabajo.h"
 
